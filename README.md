@@ -1,2 +1,3 @@
-# Practicum1
- 
+when you click on the App you will see an icon pop up before going to the mainscreen of the activity.The Application focuses on the weather therefore when using this application it determines the winds,the max and min temperature,and the sunset and sunrise of the particular location or days that have been entered.and when you entered the particular city or days the celcius will automatically be providedas well the information about the weather for example maybe there is a clear sky etc.Then at the bottom there are constraint layout that determine the weather forcast whether it is sunrise or there are winds occuring etc.
+![code for the app 3](https://github.com/st10455198/Practicum1/assets/161457234/01a50745-8667-4618-ac95-e77bd6fea099)
+
